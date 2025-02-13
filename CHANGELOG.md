@@ -1,5 +1,13 @@
 # Changelog
 
+## 5.2.0 (2025-02-13)
+
+Full Changelog: [v5.1.0...v5.2.0](https://github.com/cloudflare/terraform-provider-cloudflare/compare/v5.1.0...v5.2.0)
+
+### Features
+
+* **api:** api update ([#5137](https://github.com/cloudflare/terraform-provider-cloudflare/issues/5137)) ([baaba7e](https://github.com/cloudflare/terraform-provider-cloudflare/commit/baaba7e56556a97117037e08abd7f6570e23790d))
+
 ## 5.1.0 (2025-02-13)
 
 Full Changelog: [v5.0.0...v5.1.0](https://github.com/cloudflare/terraform-provider-cloudflare/compare/v5.0.0...v5.1.0)
